@@ -1,0 +1,14 @@
+input{
+    width: 300px;
+    height: 28px;
+    padding-left: 15px;
+    font-size: 16px;
+    color: #232323;
+    display: block;
+    margin-bottom: 20px;
+}
+button{
+    width:200px;
+    height: 28px;
+    font-size: 16px;
+}
